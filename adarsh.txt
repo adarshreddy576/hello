@@ -1,0 +1,4 @@
+echo "the file adarsh starts"
+
+echo " good morning adarsh"
+echo " what are you doing adarsh"
