@@ -1,3 +1,4 @@
+echo "the programm starts"
 echo "adarsh"
 echo"vamsi"
 echo "how are you"
